@@ -1,2 +1,1 @@
-# movimento-mulher-360-newsllater
-Movimento Mulher 360
+Precisamos desenvolver essa News, que é um trabalho probono, parceria com o Movimento Mulher 360, em um HTML acessível, dentro desse layout. Desdobraremos outras 5 newsletters a partir dessa, sempre usando o mesmo layout, só alterando a imagem, o vídeo e os textos, pra vc entender o contexto.
